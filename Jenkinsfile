@@ -47,6 +47,7 @@ pipeline {
             steps{
                 sh 'echo "esto merece todos los puntos profe"'
                 sh 'echo "xdd"'
+                sh 'unos 5 puntos'
             }
         }
     }
